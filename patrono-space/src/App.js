@@ -1,9 +1,13 @@
-import './App.css';
+import sty from './styles/styGlobal.scss';
+import Header from './components/Header';
+import Menu from './components/Menu';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Patrono Space</h1>
+    <div className={sty.App}>
+      <Header />
+
+      <Menu />
     </div>
   );
 }
