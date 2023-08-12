@@ -1,0 +1,35 @@
+@use 'styGlobal';
+
+
+.menu_banner {
+
+
+    display: flex;
+    justify-content: space-between;
+    gap: 5em;
+    align-items: center;
+
+    margin-top: 2em 0em;
+
+
+    &__imagem {
+        width: 88%;
+        position: relative;
+
+        img {
+            width: 100%;
+            height: 288px;
+        }
+
+        h1 {
+            position: absolute;
+            z-index: 1;
+            color: #d9d9d9;
+            font-size: 2.5rem;
+            width: 401px;
+            height: 144px;
+            top: 75px;
+            left: 44px;
+        }
+    }
+}
