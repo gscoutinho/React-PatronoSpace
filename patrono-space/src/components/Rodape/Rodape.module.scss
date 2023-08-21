@@ -1,0 +1,22 @@
+@import '../../styles/variables';
+
+.rodape {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    background-color: $azul-rodape;
+
+    ul {
+        text-decoration: none;
+        list-style: none;
+        display: flex;
+        gap: 2em
+    }
+
+    h3 {
+        color: $cor-do-texto;
+        padding-right: 3em;
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "categories": [
+        {
+            "name": "Estrela",
+            "id": "",
+            "favorite": false,
+            "photos": [
+                {
+                    "name": "foto-1",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-1.png"
+                },
+                {
+                    "name": "foto-3",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-3.png"
+                },
+                {
+                    "name": "foto-6",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-6.png"
+                },
+                {
+                    "name": "foto-8",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-8.png"
+                }
+            ]
+        },
+        {
+            "name": "Galáxias",
+            "id": "",
+            "favorite": false,
+            "photos": [
+                {
+                    "name": "foto-2",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-2.png"
+                },
+                {
+                    "name": "foto-4",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-4.png"
+                },
+                {
+                    "name": "foto-7",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-7.png"
+                }
+            ]
+        },
+        {
+            "name": "Lua",
+            "id": "",
+            "favorite": false,
+            "photos": [
+                {
+                    "name": "foto-5",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-5.png"
+                }
+            ]
+        },
+        {
+            "name": "Planetas",
+            "id": "",
+            "favorite": false,
+            "photos": [
+                {
+                    "name": "foto-9",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-9.png"
+                },
+                {
+                    "name": "foto-10",
+                    "author": "fonte/fotografo/satelite",
+                    "favorite": false,
+                    "id": "",
+                    "img_src": "./assets/imagens/galeria/foto-10.png"
+                }
+            ]
+        }
+    ]
+}
