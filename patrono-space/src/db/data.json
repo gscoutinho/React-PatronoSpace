@@ -10,28 +10,28 @@
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-1.png"
+                    "img_src": "/assets/imagens/galeria/foto-1.png"
                 },
                 {
-                    "name": "foto-3",
+                    "name": "foto-5",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-3.png"
+                    "img_src": "/assets/imagens/galeria/foto-5.png"
                 },
                 {
                     "name": "foto-6",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-6.png"
+                    "img_src": "/assets/imagens/galeria/foto-6.png"
                 },
                 {
                     "name": "foto-8",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-8.png"
+                    "img_src": "/assets/imagens/galeria/foto-8.png"
                 }
             ]
         },
@@ -45,21 +45,21 @@
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-2.png"
+                    "img_src": "/assets/imagens/galeria/foto-2.png"
                 },
                 {
                     "name": "foto-4",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-4.png"
+                    "img_src": "/assets/imagens/galeria/foto-4.png"
                 },
                 {
                     "name": "foto-7",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-7.png"
+                    "img_src": "/assets/imagens/galeria/foto-7.png"
                 }
             ]
         },
@@ -69,11 +69,11 @@
             "favorite": false,
             "photos": [
                 {
-                    "name": "foto-5",
+                    "name": "foto-3",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-5.png"
+                    "img_src": "/assets/imagens/galeria/foto-3.png"
                 }
             ]
         },
@@ -87,14 +87,14 @@
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-9.png"
+                    "img_src": "/assets/imagens/galeria/foto-9.png"
                 },
                 {
                     "name": "foto-10",
                     "author": "fonte/fotografo/satelite",
                     "favorite": false,
                     "id": "",
-                    "img_src": "./assets/imagens/galeria/foto-10.png"
+                    "img_src": "/assets/imagens/galeria/foto-10.png"
                 }
             ]
         }
